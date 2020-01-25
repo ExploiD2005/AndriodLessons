@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AudioRecorder</string>
+    <string name="start_record">Start record</string>
+    <string name="stop_record">Stop record</string>
+    <string name="start_read">Start read</string>
+    <string name="stop_read">Stop read</string>
+</resources>

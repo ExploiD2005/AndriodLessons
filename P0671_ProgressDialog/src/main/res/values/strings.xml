@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dflt">Обычный</string>
+    <string name="horiz">Горизонтальный</string>
+    <string name="app_name">ProgressDialog</string>
+</resources>
